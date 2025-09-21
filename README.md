@@ -62,7 +62,7 @@ This repository includes notebooks and scripts covering:
 3. **Run any notebook**
    Open with Jupyter Notebook
    OR run .py versions using Python 3
-```
+
 
 ## **📬 Contact**
 If you have suggestions, feel free to open an issue or reach out directly
