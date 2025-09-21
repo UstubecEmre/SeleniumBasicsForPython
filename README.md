@@ -16,7 +16,9 @@ This repository includes notebooks and scripts covering:
 ## 🧰 Technologies Used
 
 - [Selenium](https://www.selenium.dev/)
+  
 - [webdriver-manager](https://pypi.org/project/webdriver-manager/)
+
 - Python standard libraries like `time`, `os`, etc.
 
 ---
@@ -50,19 +52,25 @@ This repository includes notebooks and scripts covering:
    ```bash
    git clone https://github.com/UstubecEmre/SeleniumBasicsForPython.git
    cd SeleniumBasicsForPython
+   ```
 
-2. **Install dependencies
+2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+   ```
 
-3. **Run any notebook
+3. **Run any notebook**
    Open with Jupyter Notebook
    OR run .py versions using Python 3
+```
 
-📬 Contact
+## **📬 Contact**
 If you have suggestions, feel free to open an issue or reach out directly
 
-👨‍💻 Developer
+## 👨‍💻 **Developer**
+
 Emre Üstübeç
+
 📧 emresb1999@gmail.com
+
 📌 GitHub: @UstubecEmre
